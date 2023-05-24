@@ -1,0 +1,145 @@
+.freatureprojects{
+    height: 8rem;
+    font-size: 2rem;
+    color: rgb(253, 118, 0);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.projectamenities{
+    background-color: rgb(255, 214, 193);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardbodymaindiv{
+    width: 90%;
+    height: 25rem;
+    margin-bottom: 3rem;
+    position: relative;
+   
+}
+
+.cardbodymaindiv1{
+    width: 70%;
+    height: 100%;
+    margin-bottom: 3rem;
+
+    position: absolute;
+    display: none;
+    top: 0;
+    /* left: 5rem; */
+    background-image: url(https://travelynnfamily.com/wp-content/uploads/2018/09/Nandanavana.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+.cardbodymaindiv2{
+    width: 70%;
+    height: 100%;
+ 
+   position: absolute;
+   top: 0;
+   /* left: 5rem; */
+   display: none;
+   background-image: url(https://kibokoenterprises.com/wp-content/uploads/2017/04/Kiboko-Enterprises_kira-bukoto-street-lights-project.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.cardbodymaindiv3{
+    width: 70%;
+    height: 100%;
+   top: 0;
+   /* left: 5rem; */
+
+    position: absolute;
+   display: none;
+   background-image: url(https://www.dlf.in/offices/gurugram/dlfcybercity/images/24x7-img.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.cardbodymaindiv4{
+    width: 70%;
+    height: 100%;
+    top: 0;
+    /* left: 5rem; */
+ 
+    position: absolute;
+   display: none;
+   background-image: url(https://cdn.pixabay.com/photo/2016/01/10/22/40/avenue-1132693_960_720.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+
+.card-body1{
+    width: 100%;
+    font-size: 2.5rem;
+    color: white;
+    text-shadow: 0px 0px  5px  rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* position: absolute; */
+  text-align: end; 
+}
+.card-body1:hover .cardbodymaindiv1{
+    display: block;
+  
+    transform: rotate(5deg);
+}
+.card-body1:hover{
+  color: rgb(239, 235, 235);
+  text-shadow: 1px 1px  5px  rgb(0, 0, 0);
+}
+.card-body2:hover{
+  color: rgb(239, 235, 235);
+  text-shadow: 1px 1px  5px  rgb(0, 0, 0);
+}
+.card-body3:hover{
+  color: rgb(239, 235, 235);
+  text-shadow: 1px 1px  5px  rgb(0, 0, 0);
+}
+.card-body4:hover{
+  color: rgb(239, 235, 235);
+  text-shadow: 1px 1px  5px  rgb(0, 0, 0);
+}
+
+.card-body2{
+    font-size: 2.5rem;
+    color: white;
+    text-shadow: 0px 0px  5px  rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: end; 
+}
+.card-body2:hover .cardbodymaindiv2{
+  display: block;
+  transform: rotate(-5deg);
+}
+.card-body3{
+    font-size: 2.5rem;
+    color: white;
+    text-shadow: 0px 0px  5px  rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: end; 
+}
+.card-body3:hover .cardbodymaindiv3{
+    display: block;
+    transform: rotate(5deg);
+}
+.card-body4{
+    font-size: 2.5rem;
+    color: white;
+    text-align: end; 
+    text-shadow: 0px 0px  5px  rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-body4:hover .cardbodymaindiv4{
+    display: block;
+    transform: rotate(-5deg);
+}
+

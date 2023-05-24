@@ -1,0 +1,24 @@
+.carddiv img{
+    height: 100%;
+    width: 100%;
+    padding: .5rem;
+}
+.carddiv1 img{
+    height: 20rem;
+    width: 100%;
+    padding: .5rem;
+}
+.para2cardsecond{
+    padding: .5rem;
+}
+
+.para3{
+    margin-left: .5rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.sqspan{
+    color: rgb(176, 176, 176);
+   
+}
+

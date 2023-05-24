@@ -1,0 +1,19 @@
+h4{
+    font-weight: 800;
+}
+.linkdiv a{
+color: black;
+text-decoration: none;
+margin: 1rem;
+font-size: 1.2rem;
+}
+.linkdiv select{
+border: 1px solid white;
+}
+.btn{
+    background-color: rgb(255, 104, 16);
+    outline: none;
+    border: 1px solid white;
+    color: white;
+    font-size: 1rem;
+}

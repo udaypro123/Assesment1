@@ -1,0 +1,29 @@
+.span1,
+.span2,
+.span3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 600;
+color: rgb(151, 151, 151);
+}
+
+.forbes{
+    font-family: monospace;
+    color: rgb(151, 151, 151);
+}
+.marketwatch{
+    font-size: 2.6rem;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: rgb(151, 151, 151);
+}
+.title1{
+    font-size: 2.2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  color: rgb(151, 151, 151);
+}
+.title1 span{
+    font-size: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}

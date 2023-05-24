@@ -1,0 +1,32 @@
+.featureLink a {
+    font-size: 1rem;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: .5rem;
+    margin: 1rem;
+}
+.arrowbtn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.arrowbtn button{
+    font-size: 1.5rem;
+    margin: .5rem;
+    width: 3rem;
+    border: 1px solid rgb(210, 210, 210);
+    outline: none;
+    border-radius: 3px ;
+}
+.arrowbtn button img{
+   height: 1.5rem;
+   width: 1.5rem;
+}
+
+.freatureprojects1{
+    height: 8rem;
+    font-size: 2rem;
+    color: rgb(253, 118, 0);
+   display: flex;
+   align-items: center;
+}
